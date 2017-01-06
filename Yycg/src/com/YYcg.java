@@ -4,6 +4,6 @@ public class YYcg {
 public static void main(String[] args) {
 	System.out.println("test");
 	System.out.println("asdfasd");
-	
+	System.out.println("wanzuwodou");
 }
 }
